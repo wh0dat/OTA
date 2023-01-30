@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "elpaablo",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Mi 9 SE",
+			"filename": "AlphaDroid-20230131-grus-core_gapps-v1.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/grus/AlphaDroid-20230131-grus-core_gapps-v1.1.zip/download",
+			"timestamp": 1675171571,
+			"md5": "55331a55226dc423adaa4734c6d7a4f0",
+			"sha256": "bb59451ca638ef8ea878f89f4249bca3039119e49d7625c62199a0bf5e9b082d",
+			"size": 1590132346,
+			"version": "1.1",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/aexarrowgrus",
+			"dt": "https://github.com/elpaablo/device_xiaomi_grus/tree/alpha-13",
+			"common-dt": "",
+			"kernel": "https://github.com/alphadroid-devices/kernel_xiaomi_grus/tree/alpha-13"
+		}
+	]
+}
