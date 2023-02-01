@@ -1,0 +1,41 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 10T/Pro (Apollo)
+Device maintainer: OzanKaya
+Required firmware: V13.0.11.0.SJDEUXM
+
+====================
+     29-01-2023
+====================
+
+19f83e94 (HEAD -> alpha-13) sm8250-common: rootdir: Enable suspend to RAM
+4396c18b sm8250: Import props for ril powersaving
+d27ec0d9 sm8250-common: overlay: add overlays for RR and smart charging
+73b807ad Revert "sm8250-common: Allow system apps to get SettingsLib prop"
+1ce48b84 sm8250-common: Enable PRODUCT_FS_COMPRESSION
+e1395354 sm8250-common: Allow system apps to get SettingsLib prop
+84d2e4d4 sm8250-common: switch iorap prefetch prop to mendel flags
+acad82eb sm8250-common: Update props
+6abf13b4 sdm8250-comon: Enhance audio quality
+75054277 sm8250-common: Switch to zyc clang
+47df9379 sm8250-common: overlay: Allow more cached apps in the background * Google has provisioned this on the Pixel 5 (RQ1A.201205.010) to utilize   the 8 GB of RAM better, and I have also observed that a lightweight   selection of apps was hitting the cached app limit before exhausting RAM   on another device with 8 GB of RAM
+f6f4f380 sm8250-common: overlay: Allow more cached apps in the background * Google has provisioned this on the Pixel 5 (RQ1A.201205.010) to utilize   the 8 GB of RAM better, and I have also observed that a lightweight   selection of apps was hitting the cached app limit before exhausting RAM   on another device with 8 GB of RAM
+3c71d75e sm8250-common: Use limited alpha & fading marquee
+0eb904f3 sm8250-common: Disable QCOM system daemon
+8a036b07 sm8250-common: rootdir: Remove useless esepmdaemon
+c0269bca sm8250-common: rootdir: Remove useless qseeproxydaemon
+cbad6103 sm8250-common: rootdir: Remove useless qvop-daemon
+58ab2bee sm8250-common: rootdir: Remove useless ssgqmigd
+09c6da2b sm8250-common: rootdir: Remove useless ptt_socket_app
+2689e93f sm8250-common: rootdir: Remove useless sensingdaemon
+aaf6055e sm8250-common: rootdir: Drop references for qcrilNr_prebuilt.db
+c5a8fdbc sm8250-common: power: Set 1 second timeout for interaction boosts * Having no timeout makes the boosts to be permanently triggered until   some other hint overrides it, for example, making the minimum   frequency to be stuck at 1248mhz
+551c09ad sm8250-common: Don't force enable ims features
+4a9b91f5 sm8250-common: parts: thermalutils: let default sconfig be 0
+
+
+====================
+     23-01-2023
+====================
+
+* initial AlphaDroid stable build
