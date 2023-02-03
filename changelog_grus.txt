@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 9 SE (Grus)
+Device maintainer: elpaablo
+
+====================
+     24-01-2023
+====================
+
+* initial AlphaDroid stable build
