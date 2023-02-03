@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro (Sweet)
+Device maintainer: franlop77
+
+====================
+     02-02-2023
+====================
+
+* initial AlphaDroid stable build

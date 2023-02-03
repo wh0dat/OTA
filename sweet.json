@@ -1,0 +1,29 @@
+
+{
+	"response": [
+		{
+			"maintainer": "franlop77",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi Note 10 Pro",
+			"filename": "AlphaDroid-20230201-sweet-full_gapps-v1.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/sweet/AlphaDroid-20230201-sweet-full_gapps-v1.1.zip/download",
+			"timestamp": 1675351673,
+			"md5": "359a91c7d54ff8751dcef5e3f9ac265f",
+			"sha256": "41adfbad5b94fcf09a68c41147427ddd1ee87dc99100621f07b3aa364a9c3075",
+			"size": 1853042623,
+			"version": "1.1",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/franlop77",
+			"dt": "https://github.com/AlphaDroid-devices/device-xiaomi-sweet",
+			"common-dt": "https://github.com/AlphaDroid-devices/sweet_sm6150-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sweet"
+		}
+	]
+}
