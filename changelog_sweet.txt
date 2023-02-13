@@ -1,7 +1,19 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Redmi Note 10 Pro (Sweet)
+Device: Xiaomi Redmi Note10 Pro
 Device maintainer: franlop77
+
+====================
+     13-02-2023
+====================
+
+* Switch GcamGo Mod by Shamim
+* Switch to Omnitrix kernel
+* Revert Kprofiles for now
+* Fix StatusBar Icons padding
+* Switch Aosp dialer
+* CTS pass by default
+* Update Blobs V14.0.1.0
 
 ====================
      02-02-2023
