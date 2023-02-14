@@ -4,6 +4,14 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     13-02-2023
+====================
+
+* february security patches
+* enforcing selinux
+* fixed power off charging animation
+
+====================
      24-01-2023
 ====================
 
