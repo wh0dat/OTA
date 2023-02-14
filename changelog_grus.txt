@@ -4,6 +4,12 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     14-02-2023
+====================
+
+* restore FOD support
+
+====================
      13-02-2023
 ====================
 
