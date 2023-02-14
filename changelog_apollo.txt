@@ -5,10 +5,31 @@ Device maintainer: OzanKaya
 Required firmware: V13.0.11.0.SJDEUXM
 
 ====================
-     13-02-2023
+     14-02-2023
 ====================
 
-19f83e94 (HEAD -> alpha-13) sm8250-common: rootdir: Enable suspend to RAM
+887e456d2 sm8250-common: rm package cache on early boot
+5c15b3bc8 sm6150-common: vendor.prop: Disallow auxiliary camera usage for Telegram
+dc3a3e744 sm6150-common: Import suspend properties from gs101
+41b819ded sm8250-common: overlay: Allow VoLTE and VoWiFi/WFC by default
+53715de44 sm8250-common: Inherit several Android Go configurations Beneficial for everyone, even on non-Go devices.
+9c184df97 sm8250-common: Speed profile services and wifi-service to reduce RAM and storage
+abcdfa9b2 sm8250-common: overlay: enable volte
+9078b94c2 sm8250-common: overlay: Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
+fdb8634d2 sm8250-common: overlays: proper overlays for paddings
+715659492 sm8250-common: updated device.mk
+9794d1bd1 sm8250-common: Disable AAudio MMAP
+0128f3f03 sm8250-common: tune props
+a307275f6 Revert "sm8250-common: Switch to Vulkan UI renderer"
+40c27c40a sm8250-common: kona: bring back dex
+e494e3eb7 sm8250-common: Switch to Vulkan UI renderer
+0a9cc6834 sm8250-common: props: Disable sf EGL image tracking
+209810e18 sm8250-common: Enable backpressure propagation in SF
+24cafd6d7 Revert "sm8250: Import props for ril powersaving"
+b08e7328f  Fix low volume while recording or call in apps add ro.config.vc_call_vol_steps=8 soak to provide better volume steps levels
+bb89a8f2d sm8250-common: fixup parts doze building
+afea6c07d sm8250-common: import overlays for disabling prox on doze & vibration feature
+19f83e94  sm8250-common: rootdir: Enable suspend to RAM
 4396c18b sm8250: Import props for ril powersaving
 d27ec0d9 sm8250-common: overlay: add overlays for RR and smart charging
 73b807ad Revert "sm8250-common: Allow system apps to get SettingsLib prop"
