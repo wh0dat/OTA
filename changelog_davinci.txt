@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi MI 9T
+Device maintainer: t.me/hopethislasts
+
+====================
+     13-02-2023
+====================
+
+* Initial Official Build.
+* Includes Vantom Syndra kernel based on Vantom.
+* MiuiCamera Included.
