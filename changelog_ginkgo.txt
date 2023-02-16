@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 8
+Device maintainer: Agatha
+
+====================
+     16-02-2023
+====================
+
+  -  Initial Official Build
+  -  Sync Latest Sourve
+  -  Merged February 2023 security patches
+  -  Updated blobs from LA.QSSI.13.0.r1-06400-qssi.0
+  -  Updated adreno stack froom WAIPIO-1600
+  -  Merged LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0 tag in kernel
+  -  Moved XiaomiParts to system settings
+  -  Fixed charging issues

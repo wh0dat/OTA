@@ -1,0 +1,26 @@
+{
+	"response": [
+		{
+			"maintainer": "franlop77",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi Note 10 Pro",
+			"filename": "AlphaDroid-20230213-sweet-full_gapps-v1.2.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/ginkgo/AlphaDroid-20230216-ginkgo-core_gapps-v1.2.zip/download",
+			"timestamp": 1676287892,
+			"md5": "5714c8c4fa6c42f29c13ffbb9ef63b88",
+			"sha256": "7c8d08bf2f510ae64f3b6d32ec522ed05651cd63",
+			"size": 1367895430,
+			"version": "1.2",
+			"buildtype": "core_gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/agathasenpai",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_ginkgo",
+			"common-dt": "",
+			"kernel": "https://github.com/agathasenpai/android_kernel_xiaomi_ginkgo"
+		}
