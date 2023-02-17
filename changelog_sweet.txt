@@ -4,6 +4,15 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: franlop77
 
 ====================
+     17-02-2023
+====================
+
+* HOTFIX
+* Rebase tree
+* Switch Vantom kernel for greater compatibility
+* Fixed Volte
+
+====================
      13-02-2023
 ====================
 
