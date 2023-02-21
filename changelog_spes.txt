@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 11
+Device maintainer: Agatha
+
+====================
+     20-02-2023
+====================
+- Initial Official Build
+- Downgrade blobs and configs from SPESNEEAGlobal V13.0.11.0
+- Add NotchBar Killer overlay
+- Import XiaomiParts from Xiaomi sdm845-common
+- Added Moto Dolby
+- Increase 5 GHz network signal tolerance
+- Disable Refrest Rate Move to Smooth Display
+- Enable VoLTE and VoWIFI for all
+- Enable QR scanner shortcut in lock screen 
