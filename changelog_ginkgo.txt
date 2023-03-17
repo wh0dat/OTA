@@ -4,6 +4,13 @@ Device: Xiaomi Redmi Note 8
 Device maintainer: Agatha
 
 ====================
+     18-03-2023
+====================
+  -  Sync Latest Sourve
+  -  Merged February 2023 security patches
+  -  ginkgo: Switch back to LA.UM.9.11.r1-04500-NICOBAR.0 adreno stack
+
+====================
      16-02-2023
 ====================
 
