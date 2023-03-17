@@ -4,6 +4,13 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
+     16-03-2023
+====================
+- Update blobs from V14.0.1.0.SJGMIXM
+- Merge 4.14.309 into android-4.14-stable
+- Sync last source
+
+====================
      04-03-2023
 ====================
 - Enable jemalloc
