@@ -4,6 +4,19 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: franlop77
 
 ====================
+     17-03-2023
+====================
+
+* Rebased tree
+* Switch Aghisna kernel R8
+* Added Battery Health
+* Added Haptic level 
+* Add Leica Camera
+* Update blobs from V14.0.2.0
+* Sync last source
+****Highly recommend doing clean install****
+
+====================
      17-02-2023
 ====================
 
