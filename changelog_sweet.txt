@@ -4,6 +4,13 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: franlop77
 
 ====================
+     18-03-2023
+====================
+* HOTFIX
+* Removed dolby atmos for now
+* Fix Audio bluetooth
+ 
+====================
      17-03-2023
 ====================
 
