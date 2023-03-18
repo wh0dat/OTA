@@ -9,6 +9,7 @@ Device maintainer: franlop77
 * HOTFIX
 * Removed dolby atmos for now
 * Fix Audio bluetooth
+* Switch to Miuicamera
  
 ====================
      17-03-2023
