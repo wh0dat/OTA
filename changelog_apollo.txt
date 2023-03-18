@@ -4,6 +4,21 @@ Device: Xiaomi Mi 10T/Pro (Apollo)
 Device maintainer: OzanKaya
 Required firmware: V13.0.11.0.SJDEUXM
 
+
+====================
+     17-03-2023
+====================
+
+Rebased the trees with a lot of fixes and misc. optimizations.
+Added Mi-Sound
+Added new modes for display colors(Vivid, Saturated, Original, P3, sRGB)
+Re-worked thermal profiles
+Added touch&gaming profiles under thermal profiles(Works only on gaming and benchmark profile)
+Fixed screen glitches for all.
+Switched to QTI power hal with CLO boostframework.
+Updated media&display&audio hals to match our DT
+and much more...
+
 ====================
      14-02-2023
 ====================
