@@ -8,6 +8,7 @@ Device maintainer: onettboots
 
 * AlphaDroid 1.2.1
 * Switched to FOD old impl
+* Forced limit max refresh rate to 60hz on aod and lockscreen
 * Add back Dirac
 * Add Viper
 * Fixed Miui camera
