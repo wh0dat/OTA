@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "onettboots",
+			"oem": "Xiaomi",
+			"device": "Redmi K20 Pro / Mi 9T Pro",
+			"filename": "AlphaDroid-20230408-raphael-vanilla-v1.2.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/raphael/AlphaDroid-20230408-raphael-vanilla-v1.2.1.zip/download",
+			"timestamp": 1680935343,
+			"md5": "9367386e78a5686df019b370dadf0def",
+			"sha256": "6af577dbbd1f6a21d07adee67f748df7b976d1e05d70a73eca891b207835f28a",
+			"size": 1581229879,
+			"version": "1.2",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "http://paypal.me/atusyaripudin",
+			"telegram": "https://t.me/boolx_kehed",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_raphael/tree/alpha-13",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_raphael/tree/alpha-13"
+		},
+		{
+			"maintainer": "onettboots",
+            "oem": "Xiaomi",
+            "device": "Redmi K20 Pro / Mi 9T Pro",
+			"filename": "AlphaDroid-20230408-raphael-full_gapps-v1.2.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/raphael/AlphaDroid-20230408-raphael-full_gapps-v1.2.1.zip/download",
+			"timestamp": 1680963789,
+			"md5": "8bea660b2cb101b5e38f99f6ff1779e8",
+			"sha256": "01b5596810ecdacf3f97d00f2f566f41fbd56256c7aa95ed3127608d4830001d",
+			"size": 2050397376,
+			"version": "1.2",
+			"buildtype": "full_gapps",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "http://paypal.me/atusyaripudin",
+			"telegram": "https://t.me/boolx_kehed",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_raphael/tree/alpha-13",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_raphael./tree/alpha-13"
+		}
+	]
+}

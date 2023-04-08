@@ -1,0 +1,31 @@
+Build type: Monthly
+Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
+Device maintainer: onettboots
+
+====================
+     08-04-2023
+====================
+
+* AlphaDroid 1.2.1
+* Switched to FOD old impl
+* Add back Dirac
+* Add Viper
+* Fixed Miui camera
+* Fixed some sepolicy denials
+* Add CLO framework boost implementation
+* Add some props hax
+* update pasrmanager blobs
+* Add back fps info tiles
+* Use hint manager props
+* Updated value for Vibrations streng
+* Add task_profiles command for cgroup migration
+* Swithced to Skiagl thread as default renderer
+* Fix 24bit audio playback
+* Completelly stuff on dt side for Fixed audio right channel by adding some modded mixer…
+…_path files
+* Disable skiathred traces 
+* Enable config_ui_enableFadingMarquee for fading edges when marquee is enabled in TextView
+* and more ...
+
+
+
