@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "ⓓⓑⓛⓔⓝⓚ",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi 10C",
+			"filename": "AlphaDroid-13.0-20230417-fog-vanilla-v1.4.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/fog/AlphaDroid-13.0-20230417-fog-vanilla-v1.4.zip/download",
+			"timestamp": 1681700311,
+			"md5": "4d1c56fddf54119916b22ca7d854bef1",
+			"sha256": "4e01216ee9d9da36eacb45c40ee54b0956b7466a763eae9e5f927c8c5fe34fdb",
+			"size": 1082222902,
+			"version": "1.4",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/diskusiromlah",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_fog",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
