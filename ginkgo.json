@@ -4,13 +4,13 @@
 			"maintainer": "Agatha",
 			"oem": "Xiaomi",
 			"device": "Xiaomi Redmi Note 8",
-			"filename": "AlphaDroid-20230317-ginkgo-core_gapps-v1.2.1.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/ginkgo/AlphaDroid-20230317-ginkgo-core_gapps-v1.2.1.zip
-			"timestamp": 1679045083,
-			"md5": "287ba9138d990fd8ac7fbe3fa2a92832",
-			"sha256": "47d57d181b0937de189ffe5f8e5f81e8629ff6e8cf0a6f116ad0481ec2999cdc",
-			"size": 1279491728,
-			"version": "1.2",
+			"filename": "AlphaDroid-13.0-20230416-ginkgo-core_gapps-v1.4.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/ginkgo/AlphaDroid-13.0-20230416-ginkgo-core_gapps-v1.4.zip/download",
+			"timestamp": 1681708364,
+			"md5": "6cb23110ec9fa8edaf0278fce1e84fde",
+			"sha256": "e31ff6b7eca92bcc683b66a9f533a91d6b11c308",
+			"size": 1104894277,
+			"version": "1.4",
 			"buildtype": "core_gapps",
 			"forum": "",
 			"gapps": "",
@@ -24,3 +24,5 @@
 			"common-dt": "",
 			"kernel": "https://github.com/agathasenpai/android_kernel_xiaomi_ginkgo"
 		}
+	]
+}
