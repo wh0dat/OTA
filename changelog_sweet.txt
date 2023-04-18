@@ -1,52 +1,23 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note10 Pro
-Device maintainer: franlop77
+Device maintainer: JYR_RC
+
 
 ====================
-     18-03-2023
-====================
-* HOTFIX
-* Removed dolby atmos for now
-* Fix Audio bluetooth
-* Switch to Miuicamera
- 
-====================
-     17-03-2023
+     18-04-2023
 ====================
 
-* Rebased tree
-* Switch Aghisna kernel R8
-* Added Battery Health
-* Added Haptic level 
-* Add Leica Camera
-* Update blobs from V14.0.2.0
-* Sync last source
-****Highly recommend doing clean install****
+-UPDATE VERSION 1.4 ALPHADROID ANDROID 13
 
-====================
-     17-02-2023
-====================
+-Miuicamera  default
 
-* HOTFIX
-* Rebase tree
-* Switch Vantom kernel for greater compatibility
-* Fixed Volte
+-Switch Kernel Aghisna R11
 
-====================
-     13-02-2023
-====================
+-Pass CTS by default
 
-* Switch GcamGo Mod by Shamim
-* Switch to Omnitrix kernel
-* Revert Kprofiles for now
-* Fix StatusBar Icons padding
-* Switch Aosp dialer
-* CTS pass by default
-* Update Blobs V14.0.1.0
+-Security patch April
 
-====================
-     02-02-2023
-====================
+-Update Codecs Audio One Plus 8
 
-* initial AlphaDroid stable build
+-Added spatial sound codecs
