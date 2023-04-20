@@ -6,6 +6,20 @@ Required firmware: V13.0.11.0.SJDEUXM
 
 
 ====================
+     20-04-2023
+====================
+Switched back to usual display modes (Boosted color was requested back)
+Enabled LTO/O3 optimizations
+Shipping with Redline x.275 kernel
+SDClang 16.1
+Fixed QS/Screen recorder lag
+Overall UI performance optimizations.
+Added RIL edits to improve battery.
+Silenced some noisy logs.
+Misc fixes for thermal profile/sepolicy
+...
+
+====================
      17-03-2023
 ====================
 
