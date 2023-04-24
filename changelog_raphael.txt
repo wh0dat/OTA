@@ -3,6 +3,29 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     24-04-2023
+====================
+
+* AlphaDroid 1.4
+* Dropped overclock display on kernel side due to fix FOD greentint after qpr2
+  but user stay can use ocd on standalone kernel with a bit bugs of FOD
+* Completelly clo frameworks boost impl
+* Enable QR Code on Lockscreen
+* Fixed nfc service
+* Enable config_autoPowerModePreferWristTilt
+* Add custome tunables for cgroups and read_ahead_kb
+* Add support kernelSU and fixups some magisk modules to running on ksu
+* Add AAPT config
+* Disable sf EGL image tracking
+* Sync Uclamp tune to Boolx Kernel
+* Set 3 frame render ahead to reduce jank without
+  adding much input latency
+* Drop deafult SysUI list qs tiles
+* Disable intrusive gms components
+* Correct system partition size
+* Configure default light sensor type
+
+====================
      08-04-2023
 ====================
 
