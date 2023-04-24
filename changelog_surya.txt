@@ -4,6 +4,19 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
+     24-04-2023
+====================
+- Update KernelSU
+- Add missing/required camera blobs
+- Add some denials
+- Import 32 bit CamX libraries
+- Disable GL comp backpressure
+- Set ZRAM size to 50% of RAM size
+- Update blobs from V14.0.4.0.SJGEUXM
+- Update kernel target level
+- Add missing/required camera blobs
+
+====================
      16-03-2023
 ====================
 - Update blobs from V14.0.1.0.SJGMIXM
