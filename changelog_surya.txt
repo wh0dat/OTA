@@ -4,6 +4,18 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
+     27-04-2023
+====================
+- Include last KernelSU
+- Add some MIUI Camera denials
+- Set ro.product.mod_device correctly
+- Add usb2 fast charge support
+- Increase Threshold temp for Fast Charging
+- Update battery info every second when charging
+- Merge branch 'android-4.14-stable'
+- Include Leica camera
+
+====================
      24-04-2023
 ====================
 - Update KernelSU
