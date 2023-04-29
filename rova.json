@@ -1,0 +1,28 @@
+{
+    "response": [
+            {
+                    "maintainer": "Maxx459",
+                    "oem": "Xiaomi",
+                    "device": "Redmi 4A/5A",
+                    "filename": "AlphaDroid-13.0-20230429-rova-vanilla-v1.4.zip",
+                    "download": "https://sourceforge.net/projects/alphadroid-project/files/rova/AlphaDroid-13.0-20230429-rova-vanilla-v1.4.zip/download",
+                    "timestamp": 1682742128,
+                    "md5": "b4dd07aec2bddbef8b9a6f9dc1a9b84e",
+                    "sha256": "5aef94b898744a8ae8380f434981cfa31360d49deb858dd6cb05d8fb1a3698ed",
+                    "size": 922532101,
+                    "version": "1.4",
+                    "buildtype": "vanilla",
+                    "forum": "https://t.me/alphadroid_chat",
+                    "gapps": "",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram":"https://t.me/maxx459_mybuilds_discussion",
+                    "dt": "https://github.com/AlphaDroid-devices/android_device_xiaomi_rova",
+                    "common-dt": "",
+                    "kernel": "https://github.com/AlphaDroid-devices/android_kernel_xiaomi_rova"
+            }
+    ]
+}

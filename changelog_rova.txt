@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi 4A/5A (rova)
+Device maintainer: @maxx459
+Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
+
+
+====================
+     29-04-2023
+====================
+- Intial build
+- Synced latest source  
+- Enabled 1.5 IRadio hal 
+- Add toggle to force enable LTE CA 
+- Modified the SurfaceFlinger props    
+- Added different perf HAL properties
+- Droped PocketJudge and switch back to PocketMode  
+- Optimized ART props and switched dex2oat-filter to speed-profile
+- Some minor fixes and improvements 
+...
