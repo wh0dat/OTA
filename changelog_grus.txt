@@ -3,6 +3,14 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     02-05-2023
+====================
+
+* Alphadroid 1.5
+* Fixed disable dt2w option
+* Readapted FOD implementation to qpr2
+
+====================
      17-03-2023
 ====================
 
