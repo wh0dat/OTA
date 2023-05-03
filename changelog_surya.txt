@@ -4,9 +4,16 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
-     02-05-2023
+     03-05-2023
 ====================
-- Merge May SP
+- May security patches
+- Increase zram size and swappiness
+- Disable SF composition prediction model
+- Update app/sf durations from MIUI
+- Extend buffer size to 256kb for offload playback
+- Build missing omx libs
+- set flag_combined_qs_headers as false
+- Changelog ROM: https://t.me/alphadroid_releases/71- Merge May SP
 
 ====================
      27-04-2023
