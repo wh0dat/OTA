@@ -4,6 +4,17 @@ Device: Xiaomi Redmi 10C
 Device maintainer: ⓓⓑⓛⓔⓝⓚ
 
 ====================
+     04-05-2023
+====================
+- Update blobs to MIUI V13.0.6.0.SGEMIXM
+- Drop unused IR Blaster
+- Disable client composition cache
+- Disable surfaceflinger EGL image tracking
+- Add support CLO BoostFramework
+- Update Perf blobs to CLO/CAF blobs ( from AOSPA topaz )
+- Minor fix changes.
+
+====================
      17-04-2023
 ====================
 - Sync with latest source update
