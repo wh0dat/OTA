@@ -1,28 +1,28 @@
-{
-    "response": [
-            {
-                    "maintainer": "Maxx459",
-                    "oem": "Xiaomi",
-                    "device": "Redmi 4A/5A",
-                    "filename": "AlphaDroid-13.0-20230429-rova-vanilla-v1.4.zip",
-                    "download": "https://sourceforge.net/projects/alphadroid-project/files/rova/AlphaDroid-13.0-20230429-rova-vanilla-v1.4.zip/download",
-                    "timestamp": 1682742128,
-                    "md5": "4972f33e9f0dfd563bfa9895f871605e",
-                    "sha256": "01ba3aed4f4d6ea133e01c8f7a39d1f29625712aace469c7cebd976ffd5fbe01",
-                    "size": 922533786,
-                    "version": "1.4",
-                    "buildtype": "vanilla",
-                    "forum": "https://t.me/alphadroid_chat",
-                    "gapps": "",
-                    "firmware": "",
-                    "modem": "",
-                    "bootloader": "",
-                    "recovery": "",
-                    "paypal": "",
-                    "telegram":"https://t.me/maxx459_mybuilds_discussion",
-                    "dt": "https://github.com/AlphaDroid-devices/android_device_xiaomi_rova",
-                    "common-dt": "",
-                    "kernel": "https://github.com/AlphaDroid-devices/android_kernel_xiaomi_rova"
-            }
-    ]
+
+"response": [
+        {
+                "maintainer": "Maxx459",
+                "oem": "Xiaomi",
+                "device": "Redmi 4A/5A",
+                "filename": "AlphaDroid-13.0-20230504-rova-vanilla-v1.5.zip",
+                "download": "https://sourceforge.net/projects/alphadroid-project/files/rova/AlphaDroid-13.0-20230504-rova-vanilla-v1.5.zip/download",
+                "timestamp": 1683178758,
+                "md5": "07a795fecec62df313997bd76b0b5494",
+                "sha256": "1db82692c954ee17729c28cf46f403906b4efc19621389160e93ac6f9f74334e",
+                "size": 922355097,
+                "version": "1.5",
+                "buildtype": "vanilla",
+                "forum": "https://t.me/alphadroid_chat",
+                "gapps": "",
+                "firmware": "",
+                "modem": "",
+                "bootloader": "",
+                "recovery": "",
+                "paypal": "",
+                "telegram": "https://t.me/maxx459_mybuilds_discussion",
+                "dt": "https://github.com/AlphaDroid-devices/android_device_xiaomi_rova",
+                "common-dt": "",
+                "kernel": "https://github.com/AlphaDroid-devices/android_kernel_xiaomi_rova"
+        }
+]
 }

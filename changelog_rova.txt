@@ -17,4 +17,19 @@ Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 - Droped PocketJudge and switch back to PocketMode  
 - Optimized ART props and switched dex2oat-filter to speed-profile
 - Some minor fixes and improvements 
+
+
+====================
+     04-05-2023
+====================
+- Synced latest source 
+- Increased DPI to 280
+- Disable zRAM deduplication
+- Turned off Skia option "reduceOpsTaskSplitting"
+- Removed dead Bluetooth A2DP offload property 
+- Upgraded kernel to 4.9.337-3.11-iusmac
+- Shifted to defaults auto brightness debounce values
+- Bringback the PocketJudge(PocketMode breaking deepsleep)
+- Optimized graphics render engine
+- Some minor fixes and improvements 
 ...
