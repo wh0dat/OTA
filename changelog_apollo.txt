@@ -3,7 +3,16 @@ Build type: Monthly
 Device: Xiaomi Mi 10T/Pro (Apollo)
 Device maintainer: OzanKaya
 Required firmware: V13.0.11.0.SJDEUXM
-
+====================
+     05-05-2023
+====================
+Switched backto n0kernel with it's updates.
+Using Aosp 17.0x clang
+Fixed flickers on youtube.
+Fixed LMC/GCam lags.
+Fixed some jank scrolling on some cases.
+Improved UI performance.
+...
 
 ====================
      20-04-2023
