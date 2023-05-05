@@ -4,6 +4,18 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     16-04-2023
+====================
+*Alpha 1.4 release
+
+
+====================
+     16-03-2023
+====================
+* Alpha 1.2.1 Release
+* Completely rebased trees
+
+====================
      13-02-2023
 ====================
 
