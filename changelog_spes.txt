@@ -4,6 +4,20 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     06-05-2023
+====================
+- Sync Latest Source
+- May Security Patch
+- Update blobs from MIUI V13.0.12.0.SGCMIXM
+- Set fast charging indicator threshold to 10.8W
+- Add UFS sysfs path 
+- Align DcDimming with exposure dim layer
+- Add Google Battery HAL entry 
+- Enable adaptive charging feature
+- Add ignore RSSNR signal level 
+- Misc changes and fixes
+- More Improvement And Stability
+====================
      26-04-2023
 ====================
 - Sync Latest Source
