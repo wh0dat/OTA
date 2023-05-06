@@ -3,6 +3,44 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     06-05-2023
+====================
+
+• Alphadroid 1.5 May Security Patch
+• Bringbacked overclock display with fix fod after QPR2
+• Creating new Uclamp cpuset for Game and Display
+• Switched to Fod new impl
+• Droped color inversions
+• Switched to Common Xiaomi 1.0 sensors implementation
+• Updated ksu to KSU 0.5.5 and fixed some issue
+• Imported BRQ BT props from Pixel Devices
+• Fixe up wpa supplicant for service init
+• Disable adsprpcd service caused logspam
+• Set display mode to DCI-P3
+• Optimized everything on preopt
+• Set ro.hwui.render_ahead to 20
+• Update CarrierConfig from munch V13.0.4.0.SLMMIXM
+• Disable qdcm display factory mode
+• Add DRM aidl to FCM
+• Remove FM Tuner from input devices
+• Extend buffer size to 256kb for offload playback
+• Remove USE_SENSOR_MULTIHAL
+• Address vendor init cgroup getattr denial
+• Decouple suspend from screen state
+• Switched to Boolx-clang 17 for kernel build
+
+=====================
+  Kernel changelogs
+=====================
+
+• Upstreamed to latest linux tag 4.14.314
+• Merged to clo tag LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0 
+• Upstreamed and updated f2fs
+• Bringback overclock display upto 90hz
+• Add new Uclamp cpuset for Game
+
+
+====================
      24-04-2023
 ====================
 
