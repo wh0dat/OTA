@@ -4,7 +4,7 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: JYR_RC
 
 ====================
-     06-05-2023
+     05-05-2023
 ====================
 
 -Miuicamera update from MIUI V14.0.2.0.TKFMIXM 
