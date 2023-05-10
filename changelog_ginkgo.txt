@@ -2,7 +2,21 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note 8
 Device maintainer: Agatha
-
+====================
+     10-05-2023
+====================
+- Sync latest source
+- May security patch
+- configs :enable incall music and add incall music profile
+- audio: Fix low mic volume on voip
+- audio: Import Google changes on DEC7 Volume
+- wifi: Disable RX wakelock feature
+- set readahead_size_kb=128 to system,vendor and userdata
+- fstab: Enable 64-bit inode version support for ext4
+- Add secondary interface using gEnableConcurrentSTA=wlan1
+- Do not use phase offsets as duration
+- Switch to SkiaGL Threaded
+- overlay: fix lockscreen charging overlay
 ====================
      18-03-2023
 ====================
