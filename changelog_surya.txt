@@ -4,6 +4,12 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
+     14-05-2023
+====================
+- Add more Dirac presets
+- Kernel merge last changes from lineage qcom sm8150
+
+====================
      03-05-2023
 ====================
 - May security patches
