@@ -32,4 +32,19 @@ Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 - Bringback the PocketJudge(PocketMode breaking deepsleep)
 - Optimized graphics render engine
 - Some minor fixes and improvements 
+
+
+====================
+     20-05-2023
+====================
+- Synced latest source 
+- Added core_gapps build
+- Fixed sluggish QS pulldown
+- Fixed random reboot to system that was going to bootloader/fastboot
+- Switched the Launche3 to Pixel Launcher
+- Upgraded kernel to 4.9.337-3.12-iusmac
+- Optimized overall performance & battery backup
+- Optimized graphics render engine
+- Some minor fixes and improvements 
+
 ...
