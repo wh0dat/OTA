@@ -47,4 +47,12 @@ Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 - Optimized graphics render engine
 - Some minor fixes and improvements 
 
+====================
+     21-05-2023
+====================
+- Synced latest source 
+- Switched back to Launcher3 
+- Renabled GFX acceleration for 3GB variants again (Seem UI rendering smoother)
+- Optimized graphics render engine
+- Some minor fixes and improvements 
 ...
