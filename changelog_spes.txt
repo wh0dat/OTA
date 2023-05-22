@@ -4,6 +4,22 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     23-05-2023
+====================
+- Sync Latest Source
+- Address mediacodec to access sysfs_msm_subsys 
+- Move msm_irqbalance.conf to device tree 
+- Correct the arch_mem_timer interrupt 
+- Add hotword input for hotword mic concurrency 
+- Disable proximity check before pulsing 
+- Add night display color temperature calibration from Coral
+- Adapth to fog from MIUI V13.0.5.0.SGEMIXM
+- Disable HWC composition strategy prediction 
+- Set Brightness slider curve Implementation 
+- Fix Loundspeaker and fix incall while use earphone
+- Misc changes and fixes
+- More Improvement And Stability
+====================
      06-05-2023
 ====================
 - Sync Latest Source
