@@ -7,6 +7,7 @@ Device maintainer: Arsalan_zeus
      22-05-2023
 ====================
 -Update proprietary blobs to RMX3370_11.F.05.
+-QS lag fix.
 -Disabling client composition cache improves system smoothness and fix issues like lags when media output is showed on qs panel.
 -sm8250-common: props: Disable SF composition prediction model.
 -[SQUASH] sm8250-common: Add missing libraries to proprietary files.
