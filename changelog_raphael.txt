@@ -12,6 +12,7 @@ Device maintainer: onettboots
 • Remove pasrmanger from FCM
 • Back to COLOR_MODE_DEFAULT for adaptive color mode
 • Set UDFPS properties for IFAAService
+• Switched to latest leica camera
 
 =====================
   Kernel changelogs
