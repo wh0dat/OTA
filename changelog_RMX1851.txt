@@ -18,3 +18,13 @@ Device maintainer: @AllForrOne
 • Still Have Swipe To Unlock Issue ( You Need To Use Pattern Or Password).
 
 • Decrypted Rom.
+====================
+
+    23-05-2023
+
+====================
+• Still Have Swipe To Unlock Issue ( You Need To Use Pattern Or Password).
+ 
+• Enhance Stability & Smoothness
+
+• Decrypted Rom.
