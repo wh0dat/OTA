@@ -3,6 +3,28 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     23-05-2023
+====================
+
+• Dropped port Clo frameworks boost
+• Add perf optimizations props
+• Reverting dynamic refresh rate (not usable)
+• Remove pasrmanger from FCM
+• Back to COLOR_MODE_DEFAULT for adaptive color mode
+• Set UDFPS properties for IFAAService
+
+=====================
+  Kernel changelogs
+=====================
+
+• Update f2fs commits from @pwnzr kernel
+• Merged to clo tag Merge tag LA.UM.9.1.c11-53000-SMxxx0.QSSI13.0 
+• Update Kernel Su to 0.5.7
+• Interpolated brightness back to lp2 
+
+
+
+====================
      06-05-2023
 ====================
 
