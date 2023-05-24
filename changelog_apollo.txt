@@ -2,7 +2,24 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Mi 10T/Pro (Apollo)
 Device maintainer: OzanKaya
-Required firmware: V13.0.11.0.SJDEUXM
+Required firmware: V14.0.1.0.SJDMIXM
+
+====================
+     24-05-2023
+====================
+sm8250-common: Overlays: Add back AOSP-defined color modes
+sm8250-common: rootdir: Declare vendor.imsrcsservice service
+sm8250-common: Inherit SDX55M tombstones sepolicy rules for mdmhelper
+sm8250-common: props: Disable SF composition prediction model
+sm8250-common: props: Disable client composition cache
+sm8250-common: powerhint: Remove hints for Adaptive Battery CPU Throttling
+sm8250-common: powerhint: set /dev/cpu_dma_latency value in hex
+sm8250-common: powerhint: Decrease launch boost to 3sec
+sm8250-common: Update and patch ims.apk from Alioth V14.0.7.0 EU
+sm8250-common: Enable SSR for all subsytem types
+sm8250-common: sepolicy: Allow vendor init to set SSR property
+sm8250-common: Parts: Declare BootCompletedReceiver as exported reciever
+
 ====================
      05-05-2023
 ====================
