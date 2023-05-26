@@ -23,7 +23,7 @@
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_raphael/tree/alpha-13",
 			"common-dt": "",
 			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_raphael/tree/alpha-13"
-		}
+		},
 		{
 			"maintainer": "onettboots",
 			"oem": "Xiaomi",
