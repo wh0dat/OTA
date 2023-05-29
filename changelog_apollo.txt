@@ -5,6 +5,15 @@ Device maintainer: OzanKaya
 Required firmware: V14.0.1.0.SJDMIXM
 
 ====================
+     28-05-2023
+====================
+Fixed the screen flickers on some video streaming apps.
+Fixed an issue where phone couldn't wake up from a deep sleep.
+Fixed high active/idle drain
+Changed to Baalam_4.0-Tensor Kernel
+
+
+====================
      24-05-2023
 ====================
 sm8250-common: Overlays: Add back AOSP-defined color modes
