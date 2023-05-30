@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Poco F1
+Device maintainer: AKSHAT
+====================
+     30-05-2023
+====================
+- Sync latest source
+- Initital Official Build
+- Added micam
+- Kawaii kernel by default
