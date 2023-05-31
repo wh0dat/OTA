@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "Mgm2023",
+			"oem": "Samsung",
+			"device": "Galaxy S10 +",
+			"filename": "",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/beyond2lte/AlphaDroid-13.0-20230530-beyond2lte-vanilla-v1.5.1.zip/download"
+			"timestamp": 1685471520,
+			"md5": "44b6044c88f403f69a6e066cff241768",
+			"sha256": "3d12bae95808bd443436f9aeeda53f2262613593fa814101b8f6e9c9011d9cb5",
+			"size": 1176217530,
+			"version": "1.5.1",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/Mgm_2023",
+			"dt": "https://github.com/AlphaDroid-devices/device_samsung_beyond2lte",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_samsung_exynos9820-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_samsung_exynos9820"
+		}
+		{
+		    "maintainer": "Mgm2023",
+			"oem": "Samsung",
+			"device": "Galaxy S10 +",
+			"filename": "",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/beyond2lte/AlphaDroid-13.0-20230531-beyond2lte-full_gapps-v1.5.1.zip/download",
+			"timestamp": 1685520988,
+			"md5": "799e494e7d82aeaa4fc8e6320014ee2b",
+			"sha256": "8869d95f5e8ee5be76bf0aef2dc84acb153bb0718a2152b4d0d087e07fc1e44e",
+			"size": 1555766946,
+			"version": "1.5.1",
+			"buildtype": "full_gapps",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/Mgm_2023",
+			"dt": "https://github.com/AlphaDroid-devices/device_samsung_beyond2lte",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_samsung_exynos9820-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_samsung_exynos9820"
+		}
+	]
+}
