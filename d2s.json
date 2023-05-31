@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "Mgm2023",
+			"oem": "Samsung",
+			"device": "Galaxy Note 10 +",
+			"filename": "",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/d2s/AlphaDroid-13.0-20230531-d2s-vanilla-v1.5.1.zip/download",
+			"timestamp": 1685529570,
+			"md5": "32c6e52f5cab61f353583dafa44eb4c3",
+			"sha256": "0573455595848bbd2739de5cbb67ada4f7b986af53def3303fff8907f4d64383",
+			"size": 1188144273,
+			"version": "1.5.1",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/Mgm_2023",
+			"dt": "https://github.com/AlphaDroid-devices/device_samsung_d2s",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_samsung_exynos9820-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_samsung_exynos9820"
+		},
+                {
+                        "maintainer": "Mgm2023",
+			"oem": "Samsung",
+			"device": "Galaxy Note 10 +",
+			"filename": "",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/d2s/AlphaDroid-13.0-20230531-d2s-full_gapps-v1.5.1.zip/download",
+			"timestamp": 1685511508,
+			"md5": "23762805efb3dd2fad8cd04bfc3aa6ee",
+			"sha256": "704df31e52de5de2b612642feab1a4a2c7b36301d24386f2b6a27094c8dec64f",
+			"size": 1567751912,
+			"version": "1.5.1",
+			"buildtype": "full_gapps",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/Mgm_2023",
+			"dt": "https://github.com/AlphaDroid-devices/device_samsung_d2s",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_samsung_exynos9820-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_samsung_exynos9820"
+		}
+	]
+}
