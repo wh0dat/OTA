@@ -4,6 +4,14 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
+     1-06-2023
+====================
+Update values for adaptive color mode
+Enable boosted color mode by default
+Disable per-cgroup PSI accounting
+Back to stable global blobs
+
+====================
      21-05-2023
 ====================
 Build kernel with clang 17.0.2
