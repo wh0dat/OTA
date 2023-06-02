@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "KamiKaonashi",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 4",
+			"filename": "AlphaDroid-13.0-20230602-mido-core_gapps-v1.5.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/mido/AlphaDroid-13.0-20230602-mido-core_gapps-v1.5.1.zip/download",
+			"timestamp": 1685715495,
+			"md5": "fbbfc2096243e3970e5303d38d05b65c",
+			"sha256": "37a3e5dac40c63878b4f88bc792c867421940c217974e6397e2881bc6b73b963",
+			"size": 1295848777,
+			"version": "1.5.1",
+			"buildtype": "core_gapps",
+			"forum": "https://forum.xda-developers.com/m/kamikaonashi.4696609/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/kamikaonashi",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_mido",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_mido"
+		},
+		{
+			"maintainer": "KamiKaonashi",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 4",
+			"filename": "AlphaDroid-13.0-20230602-mido-vanilla-v1.5.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/mido/AlphaDroid-13.0-20230602-mido-vanilla-v1.5.1.zip/download",
+			"timestamp": 1685681324,
+			"md5": "754f9e217609f95b7acd93b386f81102",
+			"sha256": "4fa78011aa28e265a6cc2849b37a217b1b7eb26cb555191bc0fb57cc4743832e",
+			"size": 1111401981,
+			"version": "1.5.1",
+			"buildtype": "vanilla",
+			"forum": "https://forum.xda-developers.com/m/kamikaonashi.4696609/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/kamikaonashi",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_mido",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_mido"
+		}
+	]
+}
