@@ -10,3 +10,11 @@ Latest Source Synced
 Initial Official Build
 Topaz kernel by default
 Device tree from mi439-clo
+
+====================
+     20-07-2023
+====================
+Latest Source Synced
+Implemented charge control
+Fixed offline charging
+Some device tree changes
