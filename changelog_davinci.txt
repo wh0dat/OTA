@@ -4,6 +4,21 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     20-July-2023
+====================
+* AlphaDroid 1.7 Release
+* Smart Charging Removed & Lineage health added.
+* Upstreamed kernel to 4.14.320
+* CoreGapps variant now includes GoogleApp by default
+* CoreGapps variant now includes Aosp Dialer, Contacts and Messaging app
+
+====================
+     05-19-2023
+====================
+* Alpha 1.5.1 Release
+
+
+====================
      05-05-2023
 ====================
 * Alpha 1.5 Release
