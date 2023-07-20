@@ -2,6 +2,22 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note 8
 Device maintainer: Agatha
+
+====================
+     20-07-2023
+====================
+- Sync latest source
+- Enable proximity check for touchscreen gestures 
+- Switch to powerhint for screen-off ratelimits
+- Set screen-off schedutil ratelimits 
+- Reduce schedutil rate limits
+- Improve cpusets configuration
+- Use pie chromatix libs for better camera quality 
+- Enable performant auth feature 
+- Build lineage health HAL
+- Remove max ZRAM compression streams setting 
+- Misc changes and fixes
+- More Improvement And StabilitY
 ====================
      22-05-2023
 ====================
