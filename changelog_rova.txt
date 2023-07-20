@@ -4,35 +4,29 @@ Device: Redmi 4A/5A (rova)
 Device maintainer: @maxx459
 Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 
-
 ====================
-     29-04-2023
-====================
-- Intial build
-- Synced latest source  
-- Enabled 1.5 IRadio hal 
-- Add toggle to force enable LTE CA 
-- Modified the SurfaceFlinger props    
-- Added different perf HAL properties
-- Droped PocketJudge and switch back to PocketMode  
-- Optimized ART props and switched dex2oat-filter to speed-profile
-- Some minor fixes and improvements 
-
-
-====================
-     04-05-2023
+     20-07-2023
 ====================
 - Synced latest source 
-- Increased DPI to 280
-- Disable zRAM deduplication
-- Turned off Skia option "reduceOpsTaskSplitting"
-- Removed dead Bluetooth A2DP offload property 
-- Upgraded kernel to 4.9.337-3.11-iusmac
-- Shifted to defaults auto brightness debounce values
-- Bringback the PocketJudge(PocketMode breaking deepsleep)
+- Fixed Qs lags
+- Fine-tuned SurfaceFlinger
+- Increased max. hotspot connections to 16
+- Added missing GPS blobs & increased stability
+- Fixed "Accessibility -> Remove animations" option being reset after reboot
+- Fixed randomly disappearing mobile data for some SIM carriers
+- Unlocked 1497.6MHz (Turbo) max. CPU frequency   
+- Shipped with  4.9.337-3.12-iusmac kernel 
 - Optimized graphics render engine
-- Some minor fixes and improvements 
+- Some minor fixes and improvements
 
+====================
+     21-05-2023
+====================
+- Synced latest source 
+- Switched back to Launcher3 
+- Renabled GFX acceleration for 3GB variants again (Seem UI rendering smoother)
+- Optimized graphics render engine
+- Some minor fixes and improvements
 
 ====================
      20-05-2023
@@ -48,11 +42,30 @@ Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 - Some minor fixes and improvements 
 
 ====================
-     21-05-2023
+     04-05-2023
 ====================
 - Synced latest source 
-- Switched back to Launcher3 
-- Renabled GFX acceleration for 3GB variants again (Seem UI rendering smoother)
+- Increased DPI to 280
+- Disable zRAM deduplication
+- Turned off Skia option "reduceOpsTaskSplitting"
+- Removed dead Bluetooth A2DP offload property 
+- Upgraded kernel to 4.9.337-3.11-iusmac
+- Shifted to defaults auto brightness debounce values
+- Bringback the PocketJudge(PocketMode breaking deepsleep)
 - Optimized graphics render engine
-- Some minor fixes and improvements 
+- Some minor fixes and improvements
+
+====================
+     29-04-2023
+====================
+- Intial build
+- Synced latest source  
+- Enabled 1.5 IRadio hal 
+- Add toggle to force enable LTE CA 
+- Modified the SurfaceFlinger props    
+- Added different perf HAL properties
+- Droped PocketJudge and switch back to PocketMode  
+- Optimized ART props and switched dex2oat-filter to speed-profile
+- Some minor fixes and improvements  
+
 ...
