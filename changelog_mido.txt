@@ -4,6 +4,16 @@ Device: Redmi Note 4
 Device maintainer: KamiKaonashi
 
 ====================
+     20-07-2023
+====================
+
+implement charge control
+switch back to lz4 zram compression
+set ro.hwui.render_ahead to 10
+update cheetah fingerprint
+dex/ART optimizations
+
+====================
      02-06-2023
 ====================
 
