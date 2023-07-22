@@ -3,6 +3,43 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     23-07-2023
+====================
+
+• Set UDFPS properties for IFAAService
+• Fixups avc video playback
+• Downscale frame rate multiple threshold
+• Disable combined statusbar icon by default
+• Track QSPM HAL service and adde to FCM
+• Enable performant auth feature
+• Drop vestigial FM board-flags
+• Disable per-cgroup PSI accounting Boolx still with simple lmk
+• Add Lineage device_framework_matrix.xml
+• Build Lineage Health HAL
+• Set permissions for KGSL sysfs node
+• Update battery info every second when charging
+• Use foreground cpuset/uclamp for fod and add some optimation
+• Fixups NFC stuff
+
+==============
+Kernel changelogs
+==============
+
+• Update f2fs commits from @pwnzr kernel
+• Merged to clo tag LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0 
+• Update Kernel Su to 0.6.2
+• Merge to latet linux 4.14 stable and google android 4.14 stable 
+• Optimized Kprofiles for walt from @pwnzr kernel
+• Fix TEO for optimized idle
+• Add no-op psi driver for slmk
+• Add optimized display for fod from @pwnzr
+• Add userfaultfd stuff (but only work for alphadroid Rom)
+• Build with Boolx-clang 17
+
+
+
+
+====================
      23-05-2023
 ====================
 
