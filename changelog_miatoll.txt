@@ -1,0 +1,14 @@
+Build type: Monthly
+Device: Xiaomi Mi 9 SE (Grus)
+Device maintainer: ihsan & Atharva
+
+====================
+     27-07-2023
+====================
+
+* initial AlphaDroid stable build
+* Mi Cam inbuilt
+* Dolby inbuilt
+* Added KSU 0.6.2
+* Dfc kernel by default
+* OSS Audio
