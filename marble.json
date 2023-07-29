@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "Poco",
+			"device": "Poco F5",
+			"filename": "AlphaDroid-13.0-20230729-marble-core_gapps-v1.7.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/marble/AlphaDroid-13.0-20230729-marble-core_gapps-v1.7.zip/download",
+			"timestamp": 1690634196,
+			"md5": "3dd0ad027c892a7cc44959555d5bbb89",
+			"sha256": "04eddb2828fb9c9bcb63f47235a5762aeb4c2ba115f4cff0524db749acf735a0",
+			"size": 2277628459,
+			"version": "1.7",
+			"buildtype": "core_gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/JYR_RC",
+			"dt": "https://github.com/AlphaDroid-devices/android_device_xiaomi_marble",
+			"common-dt": "",
+			"kernel": "https://github.com/JYRRC/kernel_xiaomi_marble"
+		}
+	]
+}
