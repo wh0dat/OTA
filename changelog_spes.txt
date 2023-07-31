@@ -4,6 +4,24 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     31-07-2023
+====================
+- Sync Latest Source
+- Update blobs to MIUI V14.0.2.0.TGCMIXM
+- Import audio odm policy engine properties
+- Set missing audio odm policy engine properties 
+- Add HotwordEnrollment blobs 
+- Add basic permission file for HotwordEnrollment 
+- Add config_wallpaperMaxScale 
+- Import Display and SdcardFS config from MIUI 
+- Enable performant auth feature 
+- Move to common Xiaomi fingerprint HIDL 
+- Workaround safetynet 
+- Disable OEM Unlock
+- Use DMIC instead of UNPROCESSED for recorder
+- Set lmkd values per RAM variant
+- Show a ring on the camera cutout when its in use 
+====================
      23-05-2023
 ====================
 - Sync Latest Source
