@@ -4,6 +4,17 @@ Device: Xiaomi Redmi Note 8
 Device maintainer: Agatha
 
 ====================
+     03-08-2023
+====================
+- Sync latest source
+- Added MIUI camera
+- Enable performant auth feature 
+- Enable VoLTE Support for Globe, Smart and DITO
+- Move BT profiles props to vendor
+- Implement xtra-daemon control via property 
+- Pin msm_irqbalance to system-background 
+- Migrate to Xiaomi power AIDL HAL 
+====================
      20-07-2023
 ====================
 - Sync latest source
