@@ -4,6 +4,18 @@ Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 
 ====================
+     03-08-2023
+====================
+- fixed firmware issue, now supported latest f.08.
+- fixed volume not changing when playing mp3 audio files.
+- fixed sim network not working.
+- fixed screen off fp not working.
+- fixed dead auto brightness.
+- sm8250-common: Tune out thermal-engine config.
+- sm8250-common: Tweak some wifi configurations for better stability.
+- Fix mic volume in voice-tty-full-headset.
+- sepolicy: Address Google Battery hal denial.
+====================
      22-05-2023
 ====================
 -Update proprietary blobs to RMX3370_11.F.05.
