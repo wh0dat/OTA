@@ -13,7 +13,6 @@ Device maintainer: Arsalan_zeus
 - fixed dead auto brightness.
 - sm8250-common: Tune out thermal-engine config.
 - sm8250-common: Tweak some wifi configurations for better stability.
-- Fix mic volume in voice-tty-full-headset.
 - sepolicy: Address Google Battery hal denial.
 ====================
      22-05-2023
