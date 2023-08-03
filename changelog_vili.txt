@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi 11T Pro
+Device maintainer: Cr1st1anlp
+===== 03/08/2023 =====
+- Initial Official Build
+- Safetynet Passed by default
+- KSU Support

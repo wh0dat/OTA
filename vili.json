@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Cr1st1anlp",
+			"oem": "Xiaomi",
+			"device": "Mi 11T Pro",
+			"filename": "AlphaDroid-13.0-20230802-vili-full_gapps-v1.7.9.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/vili/AlphaDroid-13.0-20230802-vili-full_gapps-v1.7.9.zip/download",
+			"timestamp": 1691012058,
+			"md5": "8d1a54fa07585184422735713588f302",
+			"sha256": "34ca25f63cdd566f86c4fd6cf701db88002ea09c3f8b79645f95c743255b698f",
+			"size": 2102434668,
+			"version": "1.7.9",
+			"buildtype": "full_gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/cristianlp",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_vili",
+			"common-dt": "https://github.com/AlphaDroid-devices/android_device_xiaomi_sm8350-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_vili"
+		}
+	]
+}
