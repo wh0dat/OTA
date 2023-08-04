@@ -4,6 +4,19 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     04-08-2023
+====================
+- Sync Latest Source
+- Enable full treble override 
+- Switch to prebuilt USB configs
+- Remove touch detect module from sensor hals list 
+- Optimize for spatial audio 
+- Add HotwordEnrollment blobs from MIUI
+- Increase media volume from 15 to 25 steps
+- Enable apk fs-verity 
+- Set brightness threshold for refresh rate 
+- Import audio odm policy engine properties
+====================
      31-07-2023
 ====================
 - Sync Latest Source
