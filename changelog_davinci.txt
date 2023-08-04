@@ -4,6 +4,13 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     04-Aug-2023
+====================
+* Alphadroid 1.7.9 Update
+* Fixed Whatsapp low mic issue
+* Potentially fixed permission error
+
+====================
      20-July-2023
 ====================
 * AlphaDroid 1.7 Release
