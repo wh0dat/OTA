@@ -4,17 +4,17 @@ Device: Xiaomi Poco F1
 Device maintainer: AKSHAT
 
 ====================
-     30-05-2023
-====================
-- Sync latest source
-- Initital Official Build
-- Added micam
-- Kawaii kernel by default
-
-====================
      03-08-2023
 ====================
 - Synced latest source
 - Switched to new MI Cam
 - Inlined Dolby Atmos support
 - Switched to AtomX kernel
+
+====================
+     30-05-2023
+====================
+- Sync latest source
+- Initital Official Build
+- Added micam
+- Kawaii kernel by default
