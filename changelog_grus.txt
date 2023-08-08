@@ -3,10 +3,18 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     08-08-2023
+====================
+
+* AlphaDroid 1.7.9
+* Enabled LOS charging control (replaces Smart Charging)
+* Added KernelSU
+
+====================
      24-05-2023
 ====================
 
-* Alphadroid 1.5.1
+* AlphaDroid 1.5.1
 * Fixed Dirac SEPolicy denials
 * Restored call recording
 
@@ -14,7 +22,7 @@ Device maintainer: elpaablo
      02-05-2023
 ====================
 
-* Alphadroid 1.5
+* AlphaDroid 1.5
 * Fixed disable dt2w option
 * Readapted FOD implementation to qpr2
 
