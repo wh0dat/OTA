@@ -11,6 +11,7 @@ Device maintainer: Arsalan_zeus
 - fixed sim network not working.
 - fixed screen off fp not working.
 - fixed dead auto brightness.
+- fixed screen flicker issue when screen turn off.
 - sm8250-common: Tune out thermal-engine config.
 - sm8250-common: Tweak some wifi configurations for better stability.
 - sepolicy: Address Google Battery hal denial.
