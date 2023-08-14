@@ -6,6 +6,7 @@ Device maintainer: Arsalan_zeus
 ====================
      03-08-2023
 ====================
+- added oplus camera and gallery ( test).
 - fixed firmware issue, now supported latest f.08.
 - fixed volume not changing when playing mp3 audio files.
 - fixed sim network not working.
