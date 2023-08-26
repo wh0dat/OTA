@@ -1,28 +1,27 @@
 {
 	"response": [
-		{
-			"maintainer": "Agatha",
-			"oem": "Xiaomi",
-			"device": "Xiaomi Redmi Note 11",
-			"filename": "AlphaDroid-13.0-20230804-spes-core_gapps-v1.7.9.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/spes/AlphaDroid-13.0-20230804-spes-core_gapps-v1.7.9.zip/download",
-			"timestamp": 1691134094,
-			"md5": "dce11fcab0d4d5a1f3223740e3fda894",
-			"sha256": "2a40bb3600d69df75a1759ea4daa1a975f0c705875985b1d59132b439baba774",
-			"size": 1484402402,
-			"version": "1.7.9",
-			"buildtype": "core_gapps",
-			"forum": "https://t.me/alphadroid_chat",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "https://paypal.me/alphadroidproject",
-			"telegram": "https://t.me/agathasenpai7",
-			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_spes",
-			"common-dt": "",
-			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_spes"
-		}
+			{
+					"maintainer": "Agatha",
+					"oem": "Xiaomi",
+					"device": "Xiaomi Redmi Note 11",
+					"filename": "AlphaDroid-13.0-20230826-spes-gapps-v1.8.zip",
+					"download": "https://sourceforge.net/projects/alphadroid-project/files/spes/AlphaDroid-13.0-202>                        "timestamp": 1693024736,
+					"md5": "958117c32a6c18ff9729919508bf664e",
+					"sha256": "c693e49197cd648e9fe2fd8503917c42b68b2b5b1040c4b4ada354e7c627c2a0",
+					"size": 1630812877,
+					"version": "1.8",
+					"buildtype": "gapps",
+					"forum": "https://t.me/alphadroid_chat",
+					"gapps": "",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "",
+					"paypal": "https://paypal.me/alphadroidproject",
+					"telegram": "https://t.me/agathasenpai7",
+					"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_spes",
+					"common-dt": "",
+					"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_spes"
+			}
 	]
 }

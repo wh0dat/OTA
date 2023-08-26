@@ -4,6 +4,22 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     26-08-2023
+====================
+- Sync Latest Source
+- Update blobs to SPES V14.0.3.0.TGCMIXM
+- Remove all permissions from /sys/devices/soc0/serial_number
+- Allow system_app to read /proc/pagetypeinfo 
+- Add support for ViPER4Android
+- Exclude from Google Backup
+- Address denials for audio mods
+- Disable window rounded corner animations 
+- Patch ims.apk from sweet V14.0.2.0.TKFMIXM 
+- Enable battery health and smartcharging 
+- Spoof netflix to Mi 11 Lite 
+- Upgrade audio HAL to V7 
+- Update thermal from TAPAS V14.0.12.0.TMTMIXM
+====================
      04-08-2023
 ====================
 - Sync Latest Source
