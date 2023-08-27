@@ -4,6 +4,15 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     27-Aug-2023
+====================
+* AlphaDroid 1.8 Update
+* Upstreamed kernel to 4.14.323
+* Added back latest KernelSU
+* Revise and revert props as potential fix for lag
+* Set Carrier text padding on keyguard
+
+====================
      04-Aug-2023
 ====================
 * Alphadroid 1.7.9 Update
