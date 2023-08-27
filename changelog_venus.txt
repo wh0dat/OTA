@@ -4,6 +4,14 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     26-08-2023
+====================
+
+fix wonky automatic brightness
+switch to latest AOSP clang
+switch to cortex-a76 variant
+
+====================
      20-07-2023
 ====================
 
