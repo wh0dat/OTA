@@ -4,6 +4,14 @@ Device: Xiaomi Redmi Note 8
 Device maintainer: Agatha
 
 ====================
+     27-08-2023
+====================
+- Sync latest source
+- Mark SmartCharging as Available
+- Update clear speaker audio 
+- Refine carrier statusbar padding
+- Do not allow backups of overlays
+====================
      03-08-2023
 ====================
 - Sync latest source
