@@ -4,6 +4,15 @@ Device: Redmi Note 4
 Device maintainer: KamiKaonashi
 
 ====================
+     27-08-2023
+====================
+
+update cheetah fingerprint
+compile HWUI for better performance
+import some vendor.prop tweaks
+remove dex/art optimizations
+
+====================
      20-07-2023
 ====================
 
