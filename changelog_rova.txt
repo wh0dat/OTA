@@ -5,6 +5,12 @@ Device maintainer: @maxx459
 Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 
 ====================
+     27-08-2023
+====================
+- Synced latest source
+- Some minor fixes and improvements
+
+====================
      20-07-2023
 ====================
 - Synced latest source 
