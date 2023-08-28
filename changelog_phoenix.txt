@@ -4,20 +4,19 @@ Device: Xiaomi Redmi K30 / Poco X2
 Device maintainer: JAYMISTRY258
 
 ====================
-     25-07-2023
+     08-27-2023
 ====================
 - Latest Source Synced
 - Initial Official Build
-- July 2023 Security Patch
-- Alza-v2.0 kernel by default
-- Upstreamed kernel to 4.14.320
-- Added KSU Support
+- August 2023 Security Patch
+- Alza-v2.1 kernel by default
+- Upstreamed kernel to 4.14.323
+- Upstreamed KSU Support
 - Added Fast Charging Support
 - Added Moto Dolby Atmos
 - Added Xiaomi Leica Camera
 - Added Google Photos Unlimited Storage
 - Added Netflix Spoof
-- Added AOSP Dailer by default
 - Safetynet Passed by default
 
 Disclaimer :-	This version of Alza Kernel is based
@@ -33,3 +32,349 @@ Themed Icons not working
    Tips & Tricks
 ====================
 - Use any module or apk from playstore to use Themed Icons
+
+====================
+     08-26-2023
+====================
+
+   * frameworks/base
+fb4c0f8fb690 UDFPS pressed color overlay: display available choices and go back to default cyan
+
+   * packages/apps/AlphaSettings
+f5be981 UDFPS default pressed color: get it from the corresponding overlay
+
+   * packages/apps/Settings
+51eaf8118e Revert "Gestures: disable broken features"
+
+====================
+     08-25-2023
+====================
+
+   * frameworks/base
+55e318fb0bef Status bar: disable call strength icon by default
+2c7b46fef7e5 SettingsLib: Restore WIFI_CALL_STRENGTH_ICONS
+cc78f5c386cd SystemUI: Combined signal icons toggle [1/2]
+8361ff503555 Revert "Revert^2 "Remove support for COMBINED_SIGNAL_ICONS""
+f096969efb88 core: jni: Switch to -O3
+b2528dd90584 fixup! back gesture haptic feedback
+b496674bae51 Merge branch alpha-13-wip of https://github.com/alphadroid-   */frameworks_base into alpha-13
+
+   * hardware/qcom-caf/wlan
+4b250ac qcwcn: Address format compilation issues
+07cd5bf Merge tag 'LA.VENDOR.13.2.0.r1-16100-KAILUA.0' of https://git.codelinaro.org/clo/la/platform/hardware/qcom/wlan into HEAD
+
+   * packages/apps/AlphaSettings
+48f8b12 QS header images: set defaults
+
+   * packages/apps/Dialer
+ccffa67c0 Dialer: Revamp swipes to new functionalities
+040d6a04a Dialer: Introduce swipe to call
+
+   * vendor/gms
+1458d52 Update setup wizard dependencies and settings services
+
+====================
+     08-24-2023
+====================
+
+   * build/make
+1b73a1b9b ro.adb.secure logic is defined on vendor/lineage/alpha.mk
+d652c7ceb Introduce AlphaDroid
+
+   * build/soong
+b4a0fdd29 Add Alpha dumpvars
+
+   * device/qcom/sepolicy-legacy-um
+fd5f0ffc legacy: common: Label discard_max_bytes for SDB devices
+
+   * frameworks/base
+2c1ea5dd350b SettingsLib: Redesign and animate Battery and storage progress bars
+ce93e4c03401 Perf:Fix the issue that activity boost duration abnormal.
+fc52acd02159 BoostFramework: Guard it with overlay
+62ee569681d6 OverScroller: Import BoostFramework.ScrollOptimizer
+16abf73b78e7 Filter multi-layer cases for pre-rendering
+d4e79ce5d964 perf: Add lock protection for initialization in ScrollOptimizer
+56def6d242b5 core: Port CLO's Framework Boost
+ace36769635d Revert "Services: Boost gesture flings"
+4135149aedd9 SystemUI: Enable monochromatic monet style
+7e9f0eed777b bootanimation: Always use normal bootanimation
+e654e131eade BrightnessUtils: Allow maintainer to set desired brightness curve impl (#32)
+0d0b66efc672 Restore QS footer data usage
+33b71c62f995 base: rework QS panel styles implementation
+b0f19a050498 Systemui: Add Misc Wifi/Network icon Customization[1/2]
+6ab69614bb69 base: Data icon style[1/3]
+cb78e3cbbaaa QS header images: backup and validate settings
+cb1e4b73fe51 base: QS header images extended [1/2]
+edc36df649a3 base: Introduce Smart 5G service [1/2]
+f6ad54a9ce7a SystemUI: Add QS Page Custom Transition Animations [1/2] Signed-off-by: ariffjenong <arifbuditantodablekk@gmail.com>
+097a23bd7f17 Make DPC respect overlaid min/max brightness values
+aa886903dc08 SystemUI: add more QS Header Images
+4cff1564d543 fixup! Revert "Keyguard: Allow user configurable fingerprint wake-and-unlock"
+c9c6a137be05 SettingsLib: make EntityHeader background transparent
+210130e957a5 CollapsingToolbar: change titleCollapseMode to scale
+0e58cd2635e7 Add Portuguese and Turkish translations for settings restart dialog
+57a393708775 Redesign seekbar
+89298f5d7f9b SystemUI: Add 14 New VoLTE icon [1/2
+5433dbf070e3 SystemUI: Add Vivo X60 Pro VoLTE Icon [1/2]
+91f6ec72baab SystemUI: Add 2 more VoLTE icons [1/2]
+fade141021d2 VoLTE: return our favorite "VO" icon
+cd4e820c6f4d SystemUI: user selectable VoWiFi Icons [1/2]
+9579d96e3279 SystemUI: Add EMUI VoLTE icon [1/2]
+3b2ecf8c05e1 Add MIUI 11 VoLTE icon [1/2]
+3e9bfdac24bd User Selectable VoLTE Icons [1/2]
+9a257c1747c7 BatteryMeterView: simplify scale logic
+c669752676fa Battery Styles: Add Landscape iOS battery styles from Iconify [1/2]
+c8a1b9934de5 base: Hide ADB and developer setting enable status [1/2]
+bd636ce7a6e5 SystemUI: Improve QS notification expansion animation
+d0b535df1a04 Use ro.adb.secure to set default value of developer options
+15c7e1d891e3 overlays: Exclude from Google backup [1/2]
+9fcdaeba0a29 SystemUI: Add more clock bg chip styles [1/2]
+e9ec85a6becb don't crash apps that depend on missing Gservices provider
+1012beaa7e22 Do not backup APKs that do not have `allowBackup` attr on it's manifests
+1a3e2fc3e9f1 colorUtils: Remove translucent checks
+bab1dc8fcc74 Make QS tiles haptic feedback optional (1/2)
+b8c21bfa2cc3 HACK: telephony: Conditionally force enable LTE_CA
+b476f023c6f8 SystemUI: Statusbar clock background chip styles [1/2]
+4d292c5b5cf6 SystemUI: UdfpsController: Disable Night Light on keyguard
+b8c00a152e21 SystemUI: Always refresh power menu on config change
+2ec13bb1974a Fw_base - Rotation anim to Power and reboot menu [1/2]
+22e44cca6852 FWBase: Add 7 more power menu animations [1/2]
+3ca9a0d7fa9e Power Menu animations [1/2]
+262a18724395 SystemUI: Volume styles [1/2]
+79f8926f367c VolumeDialog: Fit the app icon to its view bounds
+b2d5b116a091 SystemUI: Fix per-app volume icon paddings
+edd4bf02496e  SystemUI: Redesign Volume Panel
+35471c80aa4d Revert "VolumePanel: Add long click for expand icon"
+a2da0f301dc7 SystemUI: Align the qs carrier text to its gravity bias
+51227d018f41 SystemUI: add Alpha logo
+42143746cb59 SettingsLib: add category for Alpha settings
+967b0ff28351 Add Alpha to metrics constants
+e680d60719af Introduce Custom settings layout
+fb02ba92c165 Introduce Custom settings layout
+8668816e2975 speedup window animation scale
+556f47f575b7 android.view: reduce animation speeds
+8d396771bcf2 sounds: Import rice system sound effects pack
+7aaec850dccf Reduce CollapsingToolBar height
+be47e9baa695 CollapsingToolBar: reduce scrim visible height
+de400856d9f0 CollapsingToolBar: change scrim color so it keeps transparency effect
+9fbcc3ab7202 base: Allow locking tasks to recents [1/2]
+97f69c9a5e13 SystemUI: unify keyguard font style
+3b48f54a30c3 [squash] Add monet customization [1/2]
+e6b9d72ad840 SystemUI: Display 2 rows when using 3 columns
+7dcff5ab8a4b fwb: Link more elements to `config_dialogCornerRadius `
+8909c32cdccd ViewConfiguration: Update fling velocity for modern devices
+616dc340caf5 base: SettingsLib: Change collapsed header color to match background color
+7e31d74acf32 base: Add support for UI Styles
+016deb2a7358 Base: Ignore window secure flags [1/2]
+d5fa42f48a73 Move status bar paddings overlays
+bb4933c39683 SystemUI: Controllable squiggle animation [1/2]
+c8c0fa452b80 Set default udfps color transparent
+2d5c550a6327 SystemUI: FOD pressed colors [1/2]
+73d092c703c9 Battery Styles: Added 9 more battery styles [1/2]
+beb178e1d91c Add Ambient Customizations [1/2]
+08d31f580744 Seekbar for left/right status bar paddings [1/2]
+6bb8b03afc68 statusbar:  allow user to customize max visible notification icons [1/2]
+6d0613c33eb3 base: set scrolling friction to 0.006f
+b6cc47c7d888 AbsListView: Improve scrolling cache
+31dcce8eeadc Create AlphaDroid resources placeholders
+356b4e7f7ba8 New Crowdin updates (#1018)
+
+   * packages/apps/AlphaSettings
+fe3edd1 AlphaSettings: Add Misc Wifi/Network icon Customization[2/2]
+
+   * packages/apps/Aperture
+a75c7d4 Aperture: Update CameraX to 1.3.0-rc01
+dc35baf Aperture: Fix QR dialog actions scroll view
+a283250 Aperture: Remove unused resources and ids
+4666568 Aperture: Fix re-enabling microphone after video has started
+deb8766 Aperture: Update androidx.media3 to 1.1.1
+
+   * packages/apps/Dialer
+3c17e49ca Dialer: Remove useless toolbar shadow
+9e641615d Dialer: Fix statusbar on light theme
+aa52863ca Dialer: Properly set navigation bar theme
+4c12bc087 New Crowdin updates (#69)
+0e9934092 Update Crowdin configuration file
+b9c01ea98 Dialer: add proper-ish Direct Boot support
+075b7cd6b Fix unnatural animation while move up "Swipe down to reject"
+fade81b67 Dialer: Rework empty illustrations
+91dbda408 Dialer: Move Sensor settings to Other settings
+8d3429709 Dialer: Add toggle for post call snackbar
+9d8b80d42 Dialer: Add ability to set full screen photos for calls
+e45e8a538 use aidl: local_include_dirs
+84a16ffe5 Remove Time use.
+a55f82290 Dialer: Blind and crude attempt of getting Visual Voicemail working on AT&T USA
+d4b1f020c Dialer: Set vvm_type_omtp for all OMTP VVM configs
+0aad117d8 Dialer: Fix LetterTileDrawable for all languages
+ac37ef746 Dialer: import VVM config from 73.0.414822266
+c06263a20 InCallUI: SmartMute
+13b51bb89 dialer: Add back missing priv-app permission
+1a2254734 Add missing permissions to Dialer
+13bce65d9 Dialer: Use system fonts
+88d2d33a7 Fix NPE in InCallPresenter
+de1af22af Fix to show voice mail notification icon for multi-sim
+314299959 Dialer: Manifest: Enable READ_EXTERNAL_STORAGE permission
+1ac24eaf6 Fix Dialer memory leaks
+40f04c6cc Dialer: Add option to disable proximity sensor
+841a2846d Dialer: CallLogFragment: Move Un-registering call log observer to destroy
+7d9a25442 Dialer: Add autorecord feature
+68ebfbe37 Dialer: CallRecordingAutoMigrator: Handle all exceptions
+e0f535d27 Dialer: Make recording names sortable
+07241692a Dialer: Enable call recording for all
+337bbf915 Dialer: Lookup: Remove OpenCnam
+10182b2c6 Dialer: Lookup: Fix Das Telefonbuch
+780bf75b2 Dialer: Remove some static java libraries
+b05086b35 Dialer: Modify CleanSpec
+38962394f Dialer: Introduce asking for default dialer role
+014f9ced3 Dialer: Redesign InCallUI
+38eb3ab62 Dialer: Lookup: Remove Auskunft / PeopleLookup
+dd383d477 Dialer: OpenStreetMap: It knows case-insensitivity now!
+bbe896fd5 Dialer: Remove GoogleForwardLookup
+c6e629fcf Dialer: Add styling to Location permission dialog
+a7fc52d01 Dialer: Only ask for location permissions if required
+eae6003ba Dialer: Fix NearbyPlaces Lookup
+8706f8fa8 Dialer: Align contacts tab with Messaging
+eb9a1a692 Dialer: Style AudioRouteSelector
+cf79f481f Dialer: InCallUI: Show chosen audio text
+5d8a22638 Dialer: Apply rounded edges to all AlertDialogs
+5cb14fe68 Dialer: Remove CommandLine [22/x]
+7f657916e Dialer: Remove InstallIn annotation [21/x]
+3bd43a23a Dialer: Remove more unused stuff [20/x]
+d36f20d73 Dialer: Merge ConstantsImpl into Constants [19/x]
+742560c01 Dialer: Remove Bindings [18/x]
+569e61935 Dialer: Remove EnrichedCall [17/x]
+727d9e379 Dialer: Remove remainder of DUO [16/x]
+d83214677 Dialer: Remove unused Utilities [15/x]
+d59bffa45 Dialer: Remove Bubble [14/x]
+05cb38bd0 Dialer: Remove Logger and Spam Module [13/x]
+aa68440aa Dialer: Collapse manifests and remove duplicate permission [12/x]
+f2361736f Dialer: Start converting to AndroidX [11/x]
+82a499f04 Dialer: Remove NeededForTesting and VisibleForTesting [10/x]
+208407989 Dialer: Remove Transcription [9/x]
+d6a53ff4d Dialer: Remove even more dead code [8/x]
+560567212 Dialer: more possible cleanups [7/x]
+378dab3f1 Dialer: Various fixes for MD3 [6/x]
+7bf091db1 Dialer: set equal marginTop and Bottom (#16)
+6bdf586b5 Dialer: Fix video call simulation
+b756f78db Dialer: Improve Bottom Nav colors
+8123b7659 Dialer: Use Material You theming for incallui dialpad
+31989fc6a Dialer: Improve Material You design
+d326332e4 Dialer: Always use Material You gradient for incall UI
+021dde27d Dialer: Apply Material you design
+a20d53a4e Dialer: Use dialer_theme_color as accent
+abc50c8c9 Dialer: Use Material You colors
+a5314dd2c Dialer: Remove more targets [5/x]
+4b35c7386 Dialer: Remove excluded code [4/x]
+26d6e56d0 Dialer: Remove unused Fragments [3/x]
+27fc32c76 Dialer: Replace pngs with xml drawables [2/x]
+0fa4f0a19 Dialer: Remove compatibility (1/x)
+ae1cfff1b Dialer: Redesign DisambigDialog
+714447cf1 Dialer: Don't show the same number twice
+9cfe3542a Dialer: Show New Favorites
+5db2358b5 Dialer: A little bit of You
+
+   * packages/apps/crDroidSettings
+9646811 New Crowdin updates (#1067)
+
+   * vendor/addons
+916c6008 Revert "Iconpacks: drop a few icons"
+
+   * vendor/lineage
+82ff8913 Drop RepainterService
+
+====================
+     08-23-2023
+====================
+
+   * art
+247d3a86dc Remove duplicate function for clearing GC stats
+
+   * frameworks/base
+fc27e1c8fa86 Add a null pointer check for getSubscriptionsInGroup
+
+   * packages/apps/Contacts
+c586e5be7 Contacts: Don't display duplicate numbers
+
+   * vendor/addons
+6faab653 Drop PUI settings overlay
+
+====================
+     08-22-2023
+====================
+
+====================
+     08-21-2023
+====================
+
+   * external/dtc
+ada0bce Add build support for more host utils
+c714c86 libfdt: Correct the string size while renaming fragments in property
+4db2742 libfdt: Add subnode at end of parent
+983719b overlay_fixup_phandle: Save entire fixup string and length
+19061e5 overlay_add_to_local_fixups: Set fixup_str to value
+0c2bc9d libfdt: overlay_rename_fragments: handle no fragments in base dtb
+cb2e960 fdtoverlaymerge: A tool that merges overlays
+444adbf libfdt: overlay_merge: Copy over various nodes and their properties
+ef95dbf libfdt: overlay_merge: remove resolved symbols
+c766452 libfdt: overlay_merge: Ignore unresolved symbols
+9d44534 libfdt: overlay_merge: Rename fragments
+b01f833 libfdt: overlay_merge: Introduce fdt_overlay_merge()
+
+====================
+     08-20-2023
+====================
+
+====================
+     08-19-2023
+====================
+
+   * packages/apps/Aperture
+c03c5b5 Aperture: Reformat code [2/2]
+2f99055 Aperture: Reformat code [1/2]
+9caba8c Aperture: Avoid binding camera without permissions
+c3ca7cd Aperture: Get rid of SuppressLint
+b826e85 Aperture: Redo edge-to-edge configuration
+1b56acc Aperture: Remove useless no-action-bar style items from camera theme
+6d2cd0b Aperture: Fix some Android Studio warnings
+
+   * packages/apps/crDroidSettings
+e57e7f4 crdroid: doze: Fix up default values for doze and AOD
+
+====================
+     08-18-2023
+====================
+
+   * bootable/recovery
+45a9b259 recovery: Bypass reboot prompt for sideload-auto-reboot
+
+   * frameworks/base
+54d510039a33 SystemUI: Launch power menu from QS only if enabled
+8efb8bfd83ab core: legacy toasts deserve rounded corners too
+c6168bef1e0d Fix invalid code link, update exception message
+8fc5de3c4dcd Handle out-of-bound array index in FastDataInput
+605b97571740 bootanimation: do not create texture for parts with count=1
+9f5c95f35b00 SystemUI: Resolve crash when updating control list services
+c715305bcd76 apex: Prevent illegal state exception caused by GMS concurrent alarms
+cac34bf88fff libs: PipTaskOrganizer: do not start fade out animation for pip if surfacecontrol leash is null
+7ad023b48fe8 Adopted Storage: Prepare user storage before move
+cb127421fcaf Avoid duplicate map lookups in RemoteConnectionManager.
+18f02ce0ce0d Don't use String8::empty
+4d892fbb24fd Merge pull request #1019 from MJPollard/13.0
+
+   * frameworks/native
+de9300ba61 Revert "Always provide metadata blob for hdr frames"
+fd432f87c5 libbinder_rs doesn't need libutils
+
+   * packages/apps/AlphaSettings
+6c47aa1 AlphaSettings: Data icon style[2/3]
+
+   * packages/apps/Contacts
+c2b6143e8 Set Notification Channel for Sending Parsing Notification
+
+   * vendor/addons
+803b23d4 fixup: Do not allow backups of overlays
+9fab4a8a Merge pull request #6 from helliscloser/alpha-13
+
+   * vendor/lineage
+cf708671 Add allowBackup flag (false) to rro overlays
+
