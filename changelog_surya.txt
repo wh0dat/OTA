@@ -4,21 +4,13 @@ Device: Poco X3 NFC (surya)
 Device maintainer: Carlos Arriaga (TheStrechh)
 
 ====================
-    20-07-2023
+    28-08-2023
 ====================
 Device tree:
-- Remove unneeded NFC packages
-- Fix IMS symlink as per dynamic partitions
-- Fix BOARD_FLASH_BLOCK_SIZE
-- gps: Implement list empty error code for msg_q
-- gps: Address logical-op-parentheses warning
-- gps: Reorder initializations list to satisfy warnings
-- gps: Resolve unused parameter warnings
-- Build Lineage Health HAL
-- Remove all permissions from /sys/devices/soc0/serial_number
-- Implement xtra-daemon control via property
+- Update blobs from V14.0.2.0.SJGMIXM
+- Drop camera.sensor* properties
+- Bringup property_contexts for Android 13
 
 Kernel tree:
 - drivers: Update KernelSU
-- Merge tag 'LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0'
-- Merge tag 'ASB-2023-07-05_4.14-stable'
+- Merge last changes from qcom sm8150
