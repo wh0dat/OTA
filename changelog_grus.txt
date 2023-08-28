@@ -3,6 +3,15 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     28-08-2023
+====================
+
+* AlphaDroid 1.8
+* Merged LA.UM.9.8.c25-01500-SDM710.0 into kernel
+* Updated KernelSU
+* Added KernelSU proper modules support, thanks to a protip from @nmslnmslnmslnmsl
+
+====================
      08-08-2023
 ====================
 
