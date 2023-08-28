@@ -2,11 +2,46 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco F5 / Redmi Note 12 Turbo
 Device maintainer: JYR_RC
+<<<<<<< HEAD
 =====08/08/2023 =====
 
 -Update Sources 1.7.9
 -Small changes in stability
 -New oneplus audio codecs
+=======
+
+
+===== 27/08/2023 =====
+
+
+-Build using vendor Oss And Kernel prebuilt
+
+-Update Melt kernel prebuilt 2.1.4
+
+-Restore backup to startup fixed
+
+-Fixed auto brightness fixed
+
+-Bright colors Added 
+
+-Dolby Vision Added
+ 
+-Dolby Atmos oneplus 
+
+-Added Ldac codecs 
+
+-Thermals working correctly 
+
+-Added battery health Enable
+
+-Qualcomm TrueWireless™ Stereo
+
+-Added refresh rate in settings
+
+
+
+
+>>>>>>> bec6069 (Update 1.8 Marble)
 
 
 
