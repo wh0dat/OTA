@@ -4,6 +4,17 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     28-08-2023
+====================
+
+HOTFIX BUILD
+fix VoWifi
+fix DT2W
+drop Touchfeature
+update KernelSU
+introduce vanilla build
+
+====================
      26-08-2023
 ====================
 
