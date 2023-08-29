@@ -17,3 +17,15 @@ Device maintainer: Cr1st1anlp
 - Add dolby atmos
 - Leica camera
 - Other minor improvements
+
+====================
+     29-08-2023
+====================
+- Fixed Tiktok crashed
+- Fixed Grey color in Netflix Dolby Vision
+- Update KSU
+- Sync latest source changes
+- Added high touch polling rate toggle
+- Build Blaze kernel by Paul
+- Added Dirac logo
+- Other minor improvements
