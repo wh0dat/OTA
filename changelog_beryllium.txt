@@ -1,7 +1,16 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Xiaomi Poco F1
+Device: Xiaomi Pocophone F1
 Device maintainer: AKSHAT
+
+====================
+     29-08-2023
+====================
+- Synced latest source
+- Rebased Device Tree
+- Nuked Dolby support
+- Switched to Etude kernel
+- Nuked Useless Thermal Profiles
 
 ====================
      03-08-2023
