@@ -1,0 +1,22 @@
+Build type: Monthly
+Device: Realme GT Neo 3T (rmx3371)
+Device maintainer: Amrutesh
+
+====================
+     31-08-2023
+====================
+* OOS dolby support
+* improved haptics
+* Minazuki Kernel by default
+* August security patch
+
+Build type: Monthly
+Device: Realme GT Neo 3T (spartan)
+Device maintainer: Amrutesh
+
+====================
+     11-08-2023
+====================
+* initial AlphaDroid stable build
+* Minazuki Kernel by default
+* July security patch
