@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus 6T
+Device maintainer: AKSHAT
+
+====================
+     02-09-2023
+====================
+- Initial Official Build
+- Added Oneplus Device Extras
+- Added Oneplus Apps
