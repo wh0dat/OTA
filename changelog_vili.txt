@@ -29,3 +29,12 @@ Device maintainer: Cr1st1anlp
 - Build Blaze kernel by Paul
 - Added Dirac logo
 - Other minor improvements
+
+====================
+     01-09-2023
+====================
+- Fixed Google restore
+- Fixed installing apps from a third party provide
+- Added support  DC DImming
+- Change to kernel Blaze 210
+- Fixed some hdr problems on youtube
