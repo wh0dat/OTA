@@ -4,6 +4,14 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     04-Sep-2023
+====================
+* Alphadroid 1.8 Update 2
+* Upstreamed Kernel to 4.14.315
+* Fixes from source for apk installation issue and Qucikswitch issue
+* Affine msm_drm & kgsl
+
+====================
      27-Aug-2023
 ====================
 * AlphaDroid 1.8 Update
