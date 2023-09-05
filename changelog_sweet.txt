@@ -1,128 +1,17 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note10 Pro
-Device maintainer: JYR_RC
+Device maintainer: UnmoveD
 
 ====================
      19-05-2023
 ====================
 
-******ALPHADROID VERSION 1.5.1 ANDROID 13******
-
-
-Build Gapps
-Build Vanilla
-
-Latest Vantom Kernel
-LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0
-4.14.314
-Support In8000
-Support OTG
-
-Leica Camera its Default
-GLNRALR_4.7.230127.0
-Fixed ALL MODES
-
-Replaced dialer google by dialer aosp In build Gapps
-Call recording support
-
-Rebased Spatial Audio Codecs
-
-Update Dirac-Sound
-
-Update LiveDisplay
-
-Update HALS media/audio
-
-Added Support AMl Audio Concert
-
-
-OrangeFox Recovery Recommended.
-
-Clean install is recommended.
-
-Recommended Nikgapps in vanilla build.
-
-
-Credits:
-
-@franlop77 For tree and help.
-
-@Vantom For Kernel Source.
-
-@unmoved21 My brother.
-
-@IvanGE90 For testing And Support.
-
-@HelmSweet For Testing.
-
-
-
-
-
-
-
-
-
-
-
-
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Xiaomi Redmi Note10 Pro
-Device maintainer: JYR_RC
-
-====================
-     05-05-2023
-====================
-
--Miuicamera update from MIUI V14.0.2.0.TKFMIXM 
-
--Update aghisna r14 on 8000 LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0 
-
--May Security patch 
-
--Update audio codecs one plus 10
-
--Update clang 17
-
--Fixed optimizations
-
--News settings doze 
-
--Tweaks wifi and bluetooth
-
--Update LiveDisplay
-
--Qcom/media/audio news
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-====================
-     18-04-2023
-====================
-
--UPDATE VERSION 1.4 ALPHADROID ANDROID 13
-
--Miuicamera  default
-
--Switch Kernel Aghisna R11
-
--Pass CTS by default
-
--Security patch April
-
--Update Codecs Audio One Plus 8
-
--Added spatial sound codecs
+initial AlphaDroid stable build
+Leica added.
+ViPER4Android FX added.
+HBM added.
+DC dimming added.
+Spatial audio added from cheetah-tq3a.230605.012.
+Fixed dolby mediacodecs support (Apple Music)
+CTS passes by default
