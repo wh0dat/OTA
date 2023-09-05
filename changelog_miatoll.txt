@@ -1,5 +1,5 @@
 Build type: Monthly
-Device: Xiaomi Mi 9 SE (Grus)
+Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ihsan & Atharva
 
 ====================
