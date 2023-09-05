@@ -3,6 +3,14 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: ihsan & Atharva
 
 ====================
+     09-09-2023
+====================
+
+* AlphaDroid 1.8
+* Leica 5.0 inbuilt
+* KSU 0.6.7
+
+====================
      27-07-2023
 ====================
 
