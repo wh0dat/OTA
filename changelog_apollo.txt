@@ -5,6 +5,59 @@ Device maintainer: OzanKaya
 Required firmware: V14.0.1.0.SJDMIXM
 
 ====================
+     08-09-2023 (1.8)
+====================
+sm8250-common: Added 150Mhz support
+sm8250-common: props: RIL edits for battery life.
+sm8250-common: wifi: Relax RSSI thresholds
+apollon: overlay-lineage: Configure additional camera framerates
+Props are edited to reduce jitter.
+Kernel is updated x.294-Baalam_6.0 with my edits to reduce battery consumption.
+
+====================
+     21-07-2023 (1.7)
+====================
+
+13bf5fa0  sm8250-common: wlan: Enable Optimized Power Management
+997895e3 sm8250-common: overlay: Set preferred refresh rate on keyguard to 60
+7aad74a7 sm8250-common: rootdir: Allow all filesystems for USB-OTG
+6c0a308e sm8250-common: rootdir: Drop references for qcrilNr_prebuilt.db
+0fba209f sm8250-common: rootdir: Remove useless sensingdaemon
+dd75f30f sm8250-common: rootdir: Remove useless ptt_socket_app
+e853735c sm8250-common: rootdir: Remove useless ssgqmigd
+d9d13eb6 sm8250-common: rootdir: Remove useless qvop-daemon
+d1d0e318 sm8250-common: rootdir: Remove useless qseeproxydaemon
+752cac34 sm8250-common: rootdir: Remove useless esepmdaemon
+d6569b24 sm8250-common: sepolicy: Address IFingerprintEngineering denial
+630c2b7c sm8250-common: Drop F2fsRecessModeEnable
+029450bb sm8250-common: Disable aosp surfaceflinger
+87d34b19 sm8250-common: disable pickup to wake and lidcontrolsleep
+1cabe0bb sm8250-common: edit 90hz and 144hz per app refresh rate icons
+213b3ed0 sm8250-common: adjust props
+d038a99f sm8250-common: Add some Fling Velocity props For better scrolling
+101d328c sm8250-common: Compile HWUI for performance * Activates a few optimizing compiler flags for HWUI. * -fno-omit-frame-pointer, -marm, -mapcs
+56bf9361 sm8250-common: prop: Compact cached app heaps in the background
+sm8250-common: overlay: adjust doze overlay
+sm8250-common: config: bring public libs back
+sm8250-common: Fix refreshutils.java
+sm8250-common: add 90 and 144hz per app refresh rate option
+sm8250-common: overlay: remove home app pinning overlay
+sm8250-common: add dalvik.vm.systemuicompilerfilter
+sm8250-common: overlay: Update pinner configuration
+sm8250-common: Tune Adaptive Suspend parameters
+sm8250-common: overlay: Offload WM shell to another thread Android 12 added this config to offload some window management to a dedicated thread. Enable it to improve performance when the main System UI thread is busy.
+sm8250-common: init: Avoid migrating foreground tasks to prime
+sm8250-common: init: Move audio-app cpuset to 1-2
+sm8250-common: Lower down rate limit for prime CPU
+sm8250-common: Boot time tuning
+sm8250-common: init: Avoid migrating foreground tasks to X1
+sm8250-common: init: Move background cpuset to CPU0-1
+sm8250-common: rootdir: Remove CAF input boost
+sm8250-common: overlay: Improve signal reception
+sm8250-common: rootdir: Enable ufs powersaving after boot
+
+
+====================
      28-05-2023
 ====================
 Fixed the screen flickers on some video streaming apps.
