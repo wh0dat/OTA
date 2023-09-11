@@ -2,7 +2,18 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
-
+====================
+     011-09-2023
+====================
+- SM8250-common: Remove liboemcrypto this fix not netflix opening in some devices.
+- Added stock camera and gallery officially.
+- Added Fast Charge control.
+- Update proprietary blobs to RMX3370_11.F.07.
+- Enable VoLTE and VoWIFI for all carriers.
+- Improve carrier mnc attributes for Indian carriers also enable VoLTE and other servies for all mcc 404, 405 (Including Airtel, VI, Jio).
+- Bitra: Update FP & Desc to RMX3370_13.1.0.504(EX01).
+- Switch to Google dialer.
+- Added pixel framework. Etc etc stuffs 
 ====================
      03-08-2023
 ====================
