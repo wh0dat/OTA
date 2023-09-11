@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 ====================
-     011-09-2023
+     11-09-2023
 ====================
 - SM8250-common: Remove liboemcrypto this fix not netflix opening in some devices.
 - Added stock camera and gallery officially.
