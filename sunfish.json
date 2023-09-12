@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "F1a5H",
+			"oem": "Google",
+			"device": "Pixel 4a",
+			"filename": "AlphaDroid-13.0-20230913-sunfish-vanilla-v1.8.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/sunfish/AlphaDroid-13.0-20230913-sunfish-vanilla-v1.8.zip/download",
+			"timestamp": 1694549857,
+			"md5": "9c9a45148e63608ec0a87944efaf133b",
+			"sha256": "e1c2368790b3ed9742b947797964fb2724d98f3988cf09b3b3457ebf89e8e060",
+			"size": 1092858926,
+			"version": "1.8",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/brickjungle",
+			"telegram": "https://t.me/F1a5H",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_sunfish",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_google_sunfish"
+		}
+	]
+}
