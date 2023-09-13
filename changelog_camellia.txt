@@ -5,6 +5,17 @@ Device maintainer: NaokoShoto
 Required firmware: v14.0.5.0
 
 ====================
+     13-04-2023
+====================
+
+- Aperture replaces GcamGo (thanks to @noah_allen)
+- New Thermal Profile section (thanks to @noah_allen)
+- Fix 5G, VoNR, and VoWifi issue
+- Changing WiFi HAL to prebuilt
+- Lift to Check
+- Merging changes on main device trees
+
+====================
      09-04-2023
 ====================
 
